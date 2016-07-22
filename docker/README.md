@@ -3,7 +3,7 @@ engineeringdojo
 
 Software engineering dojo
 
-[![Build Status](https://travis-ci.org/karenctsai/engineeringdojo.svg?branch=master)](https://travis-ci.org/karenctsai/engineeringdojo/docker)
+[![Build Status](https://travis-ci.org/karenctsai/engineeringdojo.svg?branch=master)](https://travis-ci.org/karenctsai/engineeringdojo)
 [![codecov.io](https://codecov.io/github/karenctsai/engineeringdojo/coverage.svg?branch=master)](https://codecov.io/github/karenctsai/engineeringdojo?branch=master)
 
 Steps
